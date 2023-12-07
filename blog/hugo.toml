@@ -1,0 +1,4 @@
+baseURL = 'https://lialind.github.io'
+languageCode = 'it'
+title = 'Il mio blog'
+#theme = 'PaperMod'
